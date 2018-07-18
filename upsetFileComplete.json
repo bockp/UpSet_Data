@@ -1,5 +1,5 @@
 {
-	"file": "hhttps://github.com/bockp/UpSet_Data/blob/master/upsetDataComplete.csv",
+	"file": "https://github.com/bockp/UpSet_Data/blob/master/upsetDataComplete.csv",
 	"name": "UpSet visualization of Shared Sequences",
 	"header": 0,
 	"separator": ";",
