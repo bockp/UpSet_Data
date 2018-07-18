@@ -1,5 +1,5 @@
 {
-	"file": "./upsetDataComplete.csv",
+	"file": "https://github.com/bockp/UpSet_Data/blob/master/9595/upsetDataComplete.csv",
 	"name": "UpSet visualization of Shared Sequences",
 	"header": 0,
 	"separator": ";",
@@ -8,6 +8,6 @@
 		{ "type": "id", "index": 0, "name": "Name" }
 	],
 	"sets": [
-		{ "format": "binary", "start": 1, "end": 7108 }
+		{ "format": "binary", "start": 1, "end": 5 }
 	]
 }
